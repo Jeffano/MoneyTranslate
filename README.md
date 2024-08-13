@@ -6,6 +6,3 @@ Financial literacy doesn't have to be hard... introducing Money Translate. This 
 
 Built with Django (Python) and React
 
-UofTHacks X Submission. View a demo and the Devpost submission at https://devpost.com/software/money-translate. 
-
-https://github.com/vivekajayjariwala/MoneyTranslate
